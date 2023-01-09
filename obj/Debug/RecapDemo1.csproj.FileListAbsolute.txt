@@ -1,0 +1,11 @@
+E:\C#Project\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+E:\C#Project\RecapDemo1\bin\Debug\RecapDemo1.exe
+E:\C#Project\RecapDemo1\bin\Debug\RecapDemo1.pdb
+E:\C#Project\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+E:\C#Project\RecapDemo1\obj\Debug\RecapDemo1.csproj.SuggestedBindingRedirects.cache
+E:\C#Project\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+E:\C#Project\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+E:\C#Project\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+E:\C#Project\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+E:\C#Project\RecapDemo1\obj\Debug\RecapDemo1.exe
+E:\C#Project\RecapDemo1\obj\Debug\RecapDemo1.pdb
