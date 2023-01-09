@@ -1,1 +1,1 @@
-# Basic checkerboard with csharp
+# Basic checkerboard app with c#
